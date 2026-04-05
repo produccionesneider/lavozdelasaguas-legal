@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aviso Legal - La Voz de La Jagua 95.7 FM</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.7;
+      color: #222;
+    }
+    h1, h2 {
+      color: #0a4a7a;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Aviso Legal</h1>
+<p><strong>Última actualización:</strong> Abril de 2026</p>
+
+<h2>1. Titularidad</h2>
+<p>
+La aplicación es propiedad de <strong>La Voz de La Jagua 95.7 FM</strong>.
+</p>
+
+<h2>2. Ubicación</h2>
+<p>
+La Jagua de Ibirico, Cesar, Colombia.
+</p>
+
+<h2>3. Naturaleza del servicio</h2>
+<p>
+Esta aplicación es un canal digital oficial de comunicación y difusión de contenido radial.
+</p>
+
+<h2>4. Normativa</h2>
+<p>
+La emisora opera conforme a las leyes de radiodifusión de la República de Colombia.
+</p>
+
+<h2>5. Responsabilidad</h2>
+<p>
+El uso de la aplicación es responsabilidad del usuario.
+</p>
+
+<h2>6. Propósito</h2>
+<p>
+Brindar acceso a la señal en vivo y contenido informativo a nivel local e internacional.
+</p>
+
+</body>
+</html>
